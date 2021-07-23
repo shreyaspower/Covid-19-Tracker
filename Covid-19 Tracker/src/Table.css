@@ -1,0 +1,15 @@
+.thead_dark{
+  background-color: #555555;
+  color: whitesmoke;
+}
+
+.table_body{
+  background-color: whitesmoke;
+  color: black;
+}
+
+.app_table {
+  margin-top: 20px;
+  overflow: scroll;
+  height: 625px;
+}
